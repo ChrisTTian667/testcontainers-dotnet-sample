@@ -4,3 +4,13 @@
 TestService.Api/bin/Debug/net6.0/
 
 TestService.Api/bin/Release/net6.0/
+
+.idea/.idea.TestService/.idea/
+
+TestService.Api/obj/Debug/net6.0/
+
+TestService.Api/obj/
+
+TestService.Tests/obj/Debug/net6.0/
+
+TestService.Tests/obj/
